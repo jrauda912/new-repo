@@ -1,3 +1,7 @@
 body {
   display: flex;
 }
+
+.paragraph__text_small {
+  font-size: 5px;
+}
